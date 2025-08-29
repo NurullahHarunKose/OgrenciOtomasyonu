@@ -140,7 +140,6 @@ npm start
 ## 📄 Sayfa Detayları
 
 ### 🏠 Ana Sayfa (`/`)
-![Ana Sayfa Görseli](assets/1.png)
 - Sistem genel istatistikleri
 - Hızlı erişim butonları
 - Modern ve responsive tasarım
